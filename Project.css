@@ -10,10 +10,6 @@
     cursor:pointer;
     }
 
-.horoscopeP {
-      width: 720px;
-    }
-
     .calenderimg {
       width: 720px;
 
@@ -28,10 +24,6 @@
     border-radius:5px;
     cursor:pointer;
        }
-.calenderp {
-      width: 720px;
-  
-    }
 
     body {
       background-image: url(clear\ sky.gif);
